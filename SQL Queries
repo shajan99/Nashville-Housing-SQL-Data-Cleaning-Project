@@ -1,4 +1,4 @@
--- Nashville Housing data cleaning queries for making data more usable
+### Data cleaning of Nashville Housing data using SQL for making data more usable
 
 SELECT *
 FROM [Data Cleaning].[dbo].[NashvilleHousing]
