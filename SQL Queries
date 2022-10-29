@@ -158,10 +158,10 @@ ORDER BY PropertyAddress
 
 -- Delete irrelevant Columns
 
-
-
 SELECT *
 FROM [Data Cleaning].[dbo].[NashvilleHousing]
 
 ALTER TABLE [Data Cleaning].[dbo].[NashvilleHousing]
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
+
+
